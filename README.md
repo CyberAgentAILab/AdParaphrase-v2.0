@@ -18,7 +18,7 @@ This repository contains two types of datasets: `main` and `pt`.
 **`main` dataset:**
 - Purpose: Analyzing linguistic features influencing human preferences.
 - Structure: Pairs of ad texts (`ad1`, `ad2`) with paraphrase and preference annotations.
-- See Sections 2 and 3 of the paper for details.
+- See Sections 3 and 4 of the paper for details.
 
 **`pt` (preference tuning) dataset:**
 - Purpose: Ad text generation experiments using preference tuning.
